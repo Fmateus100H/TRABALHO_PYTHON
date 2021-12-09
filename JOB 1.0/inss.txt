@@ -1,0 +1,4 @@
+Mateus#2003#3000.0#dev#2019#N
+Ray#2003#2000.0#vendedora#2021#N
+Raimundo#1950#2400.0#pedreiro#1980#S
+Maria#1955#800.0#dona de casa#1970#S
