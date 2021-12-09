@@ -1,0 +1,8 @@
+chiclete#7#0.5
+feijão#20#4.5
+arroz#20#5.0
+farinha#28#6.0
+macarrão#3#3.0
+óleo#5#5.0
+mortadela#18#3.5
+banana#30#1.0
