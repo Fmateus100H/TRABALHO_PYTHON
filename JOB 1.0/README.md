@@ -1,13 +1,19 @@
 Joãozinho trabalha na previdência social. Como um bom funcionário, ele se empenha para conseguir dar conta dos cálculos previdenciários de todos os cidadãos de seu país. Entretanto, esta é uma tarefa que demanda muito tempo, por isso, ele solicita a sua ajuda para desenvolver um sistema de previdência social. O sistema deve cadastrar cada trabalhador com informações como nome, ano de nascimento, salário, emprego, ano do início do emprego. O programa deve ser capaz de executar as seguintes funcionalidades: 
  
 Cadastrar cidadão -> registra um novo cidadão no banco de dados. 
+
 Previsão de aposentadoria -> informa o nome do cidadão e retorna o ano de aposentadoria mais a diferença de tempo até lá. Caso, ele já esteja aposentado, apenas informe isso. 
 Exemplo 1: Previsão para 2030. Faltam 9 anos. 
 Exemplo 2: O cidadão já se aposentou. 
+
 Aviso de aposentadoria -> informa o nome do cidadão, se o cidadão estiver apto a se aposentar, aposente-o e calcule seu novo salário. Se o cidadão já estiver aposentado ou não puder se aposentar, informe isto em uma mensagem. 
+
 Informe quem tem a maior aposentadoria -> retorna o nome e o valor da maior aposentadoria. 
+
 Média salarial dos trabalhadores na ativa -> retorna a média salarial dos trabalhadores na ativa. 
+
 Média salarial dos aposentados -> retorna a média salarial dos aposentados. 
+
 Considerações: 
  
 Considere que o arquivo 'inss.txt' já foi criado, ou crie um arquivo 'inss.txt' vazio e anexe ao seu código. 
